@@ -3,7 +3,7 @@
 ## Description
 NewsApp is an Android application designed to provide the latest news articles from (https://www.engadget.com/rss.xml). The app is built using modern Android development principles and libraries.
 
-## Features
+## Features and Concepts
 - **Model-View-ViewModel (MVVM) architecture**: Ensures a clear separation of concerns.
 - **WorkManager with CoroutineWorker**: Manages background tasks efficiently.
 - **Activities**: Implements various screens for user interaction.
