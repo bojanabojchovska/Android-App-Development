@@ -14,16 +14,16 @@ NewsApp is an Android application designed to provide the latest news articles f
 - **LiveData**: Observes data changes and updates UI accordingly.
 
 ## Starting Activity
-
 ![1](https://github.com/user-attachments/assets/516e97d8-e4b3-432d-9092-61fa512f2d0a)
 
 ## Clicked on the first element
-![Screenshot_20240722_132922](https://github.com/user-attachments/assets/0519456f-cb09-4847-8c85-81227ac1de90)
+![2](https://github.com/user-attachments/assets/4f7b2395-b72c-43d5-85fb-84d9d27cc329)
 
 ## Scrolling down (the full story button opens the news in the default browser)
-![Screenshot_20240722_132900](https://github.com/user-attachments/assets/1f5783d0-e650-43cd-9087-f17c5dc1447b)
+![3](https://github.com/user-attachments/assets/541edd95-27d1-44c0-84c9-bad5811072c8)
 
-## Settings
-![Screenshot_20240722_132824](https://github.com/user-attachments/assets/6c606efc-83ee-411d-8e1b-ab1ad91d3c76)
+## Settings 
+![4](https://github.com/user-attachments/assets/189e075f-c4f3-443a-8442-1b16e54968f2)
+
 
 
