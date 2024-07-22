@@ -24,7 +24,8 @@ NewsApp is an Android application designed to provide the latest news articles f
 
 ## Settings 
 - **The url link of the news source can be changed (Used sources: https://www.engadget.com/rss.xml and https://www.derstandard.at/rss)**
-- **The news can be shown without images**
+- **All of the news can be shown without images**
+
 ![4](https://github.com/user-attachments/assets/efc0fb4c-3b9d-499e-9113-c0e4394a09ed)
 
 
